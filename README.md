@@ -9,9 +9,10 @@
         alert("are you going to buy or not?")
       }
   </script>
-</head>
-</body>
+  </head>
+  <body>
       <h1>Ice Cream On Sale!</h1>
       <p>come get your ice cream nice and ho-er I mean cold. call 7706230582.</p>
-</body>
-</html>
+    </body>
+</html>    
+    
